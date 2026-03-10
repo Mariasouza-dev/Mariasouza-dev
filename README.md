@@ -21,7 +21,6 @@
 
 📊 Interesse em **dados, tecnologia e inovação**
 
-💡 Sempre buscando evoluir e desenvolver novos projetos
 
 ---
 
@@ -32,7 +31,7 @@
 
  👩‍🎓 Gestão de Tecnologia Aplicada
  
- 💻 Desenvolvimento Web
+ 💻 Desenvolvimento Web (cursando)
 
 
 ## 📫 Contato
